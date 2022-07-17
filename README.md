@@ -81,7 +81,7 @@ deploying to Okteto. but you can deploy it as your choice,<br><br>
 
 ### Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sanila2007/Sanila-Assistant-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sanila2007/feedback-bot)
    
 ### Okteto
 
